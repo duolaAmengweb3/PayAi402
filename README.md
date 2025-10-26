@@ -503,8 +503,9 @@ MIT License
 
 ## 📧 联系方式
 
-- Twitter: [@payai402](https://twitter.com/payai402)
-- GitHub: [payai402](https://github.com/你的用户名/payai402)
+- **Telegram**: [@dsa885](https://t.me/dsa885)
+- **Twitter/X**: [@hunterweb303](https://x.com/hunterweb303)
+- **GitHub**: [duolaAmengweb3/PayAi402](https://github.com/duolaAmengweb3/PayAi402)
 
 ---
 
